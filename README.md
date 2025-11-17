@@ -13,16 +13,17 @@ Coin en een goumba
     > ![](imgs/2.1.gif)
 
  Ronddraaiende coin en een heen en weer bewegende goumba.
- Coin script:
- Goumba Script:
+ Coin script: https://github.com/SemDoeswijk93/Unity/blob/main/2.2/Assets/SimpleMovement.cs
+ Goumba Script: https://github.com/SemDoeswijk93/Unity/blob/main/2.2/Assets/goumba.cs
 
 # **3.1**
 Stuiterende bal
     > ![](imgs/3.1.gif)
 
-Bal Script: 
+Bal Script: https://github.com/SemDoeswijk93/Unity/blob/main/3.1/Assets/bounce.physicMaterial
 
 Ja zoals de naam zegt, een bal de stuitert op de grond. 
+
 
 
 
