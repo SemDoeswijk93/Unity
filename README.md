@@ -25,6 +25,12 @@ Bal Script: https://github.com/SemDoeswijk93/Unity/blob/main/3.1/Assets/bounce.p
 Ja zoals de naam zegt, een bal de stuitert op de grond. 
 
 
+$ **Concept**
+
+Mijn concept van mijn spel is je hebt een baan waar je precies moet timen om de auto door de bocht te krijgen. Je krijgt 1 try en er zijn verschillende levels 
+
+
+
 
 
 
